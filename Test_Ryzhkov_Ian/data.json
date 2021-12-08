@@ -1,0 +1,2002 @@
+[
+  {
+    "number": 907,
+    "stationStart": 1909,
+    "stationFinish": 1929,
+    "cost": 1790.87,
+    "timeStart": "0:50:00",
+    "timeFinish": "20:00:00"
+  },
+  {
+    "number": 908,
+    "stationStart": 1909,
+    "stationFinish": 1929,
+    "cost": 1790.87,
+    "timeStart": "0:50:00",
+    "timeFinish": "20:00:00"
+  },
+  {
+    "number": 909,
+    "stationStart": 1929,
+    "stationFinish": 1909,
+    "cost": 1790.87,
+    "timeStart": "10:01:00",
+    "timeFinish": "1:00:00"
+  },
+  {
+    "number": 909,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 199.15,
+    "timeStart": "11:10:00",
+    "timeFinish": "1:00:00"
+  },
+  {
+    "number": 910,
+    "stationStart": 1929,
+    "stationFinish": 1909,
+    "cost": 1790.87,
+    "timeStart": "10:01:00",
+    "timeFinish": "1:00:00"
+  },
+  {
+    "number": 910,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 199.15,
+    "timeStart": "11:10:00",
+    "timeFinish": "1:00:00"
+  },
+  {
+    "number": 911,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 191.87,
+    "timeStart": "23:00:00",
+    "timeFinish": "14:40:00"
+  },
+  {
+    "number": 914,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 191.89,
+    "timeStart": "9:24:00",
+    "timeFinish": "0:52:00"
+  },
+  {
+    "number": 917,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 300.18,
+    "timeStart": "9:25:00",
+    "timeFinish": "20:01:00"
+  },
+  {
+    "number": 918,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 300.2,
+    "timeStart": "6:55:00",
+    "timeFinish": "17:10:00"
+  },
+  {
+    "number": 919,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 130.6,
+    "timeStart": "4:59:00",
+    "timeFinish": "20:06:00"
+  },
+  {
+    "number": 920,
+    "stationStart": 1981,
+    "stationFinish": 1902,
+    "cost": 120.55,
+    "timeStart": "10:00:00",
+    "timeFinish": "1:05:00"
+  },
+  {
+    "number": 921,
+    "stationStart": 1981,
+    "stationFinish": 1902,
+    "cost": 120.55,
+    "timeStart": "10:00:00",
+    "timeFinish": "1:05:00"
+  },
+  {
+    "number": 935,
+    "stationStart": 1981,
+    "stationFinish": 1902,
+    "cost": 191.48,
+    "timeStart": "20:03:00",
+    "timeFinish": "10:56:00"
+  },
+  {
+    "number": 936,
+    "stationStart": 1981,
+    "stationFinish": 1902,
+    "cost": 191.48,
+    "timeStart": "20:03:00",
+    "timeFinish": "10:56:00"
+  },
+  {
+    "number": 957,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 131.36,
+    "timeStart": "0:55:00",
+    "timeFinish": "15:02:00"
+  },
+  {
+    "number": 965,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 180.27,
+    "timeStart": "9:33:00",
+    "timeFinish": "17:57:00"
+  },
+  {
+    "number": 966,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 180.27,
+    "timeStart": "9:33:00",
+    "timeFinish": "17:57:00"
+  },
+  {
+    "number": 967,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 180.28,
+    "timeStart": "9:10:00",
+    "timeFinish": "16:35:00"
+  },
+  {
+    "number": 968,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 180.28,
+    "timeStart": "9:10:00",
+    "timeFinish": "16:35:00"
+  },
+  {
+    "number": 970,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 309.19,
+    "timeStart": "0:24:00",
+    "timeFinish": "15:35:00"
+  },
+  {
+    "number": 971,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 309.19,
+    "timeStart": "0:24:00",
+    "timeFinish": "15:35:00"
+  },
+  {
+    "number": 978,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 258.53,
+    "timeStart": "4:15:00",
+    "timeFinish": "13:10:00"
+  },
+  {
+    "number": 979,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 258.55,
+    "timeStart": "7:16:00",
+    "timeFinish": "14:50:00"
+  },
+  {
+    "number": 986,
+    "stationStart": 1981,
+    "stationFinish": 1902,
+    "cost": 157.45,
+    "timeStart": "8:46:00",
+    "timeFinish": "0:50:00"
+  },
+  {
+    "number": 987,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 156.9,
+    "timeStart": "2:52:00",
+    "timeFinish": "18:49:00"
+  },
+  {
+    "number": 995,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 148.73,
+    "timeStart": "5:27:00",
+    "timeFinish": "20:18:00"
+  },
+  {
+    "number": 996,
+    "stationStart": 1981,
+    "stationFinish": 1902,
+    "cost": 149.23,
+    "timeStart": "9:12:00",
+    "timeFinish": "23:27:00"
+  },
+  {
+    "number": 1002,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 199.15,
+    "timeStart": "5:52:00",
+    "timeFinish": "20:25:00"
+  },
+  {
+    "number": 1006,
+    "stationStart": 1921,
+    "stationFinish": 1929,
+    "cost": 142.13,
+    "timeStart": "12:07:00",
+    "timeFinish": "2:06:00"
+  },
+  {
+    "number": 1013,
+    "stationStart": 1921,
+    "stationFinish": 1937,
+    "cost": 140.51,
+    "timeStart": "7:59:00",
+    "timeFinish": "18:03:00"
+  },
+  {
+    "number": 1025,
+    "stationStart": 1921,
+    "stationFinish": 1902,
+    "cost": 164.65,
+    "timeStart": "7:08:00",
+    "timeFinish": "22:20:00"
+  },
+  {
+    "number": 1026,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 164.63,
+    "timeStart": "6:46:00",
+    "timeFinish": "22:23:00"
+  },
+  {
+    "number": 1035,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 181.05,
+    "timeStart": "22:07:00",
+    "timeFinish": "12:15:00"
+  },
+  {
+    "number": 1050,
+    "stationStart": 1981,
+    "stationFinish": 1902,
+    "cost": 227.88,
+    "timeStart": "18:04:00",
+    "timeFinish": "8:44:00"
+  },
+  {
+    "number": 1066,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 152.58,
+    "timeStart": "3:47:00",
+    "timeFinish": "18:37:00"
+  },
+  {
+    "number": 1067,
+    "stationStart": 1981,
+    "stationFinish": 1902,
+    "cost": 153.1,
+    "timeStart": "7:41:00",
+    "timeFinish": "22:00:00"
+  },
+  {
+    "number": 1068,
+    "stationStart": 1921,
+    "stationFinish": 1929,
+    "cost": 130.36,
+    "timeStart": "6:45:00",
+    "timeFinish": "21:22:00"
+  },
+  {
+    "number": 1088,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 197.35,
+    "timeStart": "6:26:00",
+    "timeFinish": "22:40:00"
+  },
+  {
+    "number": 1093,
+    "stationStart": 1981,
+    "stationFinish": 1902,
+    "cost": 198.07,
+    "timeStart": "6:40:00",
+    "timeFinish": "22:53:00"
+  },
+  {
+    "number": 1098,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 166.55,
+    "timeStart": "0:30:00",
+    "timeFinish": "14:42:00"
+  },
+  {
+    "number": 1099,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 166.55,
+    "timeStart": "0:30:00",
+    "timeFinish": "14:42:00"
+  },
+  {
+    "number": 1100,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 166.55,
+    "timeStart": "0:30:00",
+    "timeFinish": "14:42:00"
+  },
+  {
+    "number": 1105,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 138.54,
+    "timeStart": "0:14:00",
+    "timeFinish": "15:22:00"
+  },
+  {
+    "number": 1106,
+    "stationStart": 1981,
+    "stationFinish": 1902,
+    "cost": 151.56,
+    "timeStart": "7:21:00",
+    "timeFinish": "23:16:00"
+  },
+  {
+    "number": 1108,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 166.55,
+    "timeStart": "22:34:00",
+    "timeFinish": "13:03:00"
+  },
+  {
+    "number": 1115,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 183.82,
+    "timeStart": "6:41:00",
+    "timeFinish": "22:01:00"
+  },
+  {
+    "number": 1116,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 183.84,
+    "timeStart": "20:09:00",
+    "timeFinish": "11:36:00"
+  },
+  {
+    "number": 1119,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 171.82,
+    "timeStart": "2:03:00",
+    "timeFinish": "17:30:00"
+  },
+  {
+    "number": 1120,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 171.82,
+    "timeStart": "2:03:00",
+    "timeFinish": "17:30:00"
+  },
+  {
+    "number": 1121,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 171.82,
+    "timeStart": "2:03:00",
+    "timeFinish": "17:30:00"
+  },
+  {
+    "number": 1125,
+    "stationStart": 1921,
+    "stationFinish": 1902,
+    "cost": 115.84,
+    "timeStart": "3:44:00",
+    "timeFinish": "18:51:00"
+  },
+  {
+    "number": 1125,
+    "stationStart": 1921,
+    "stationFinish": 1981,
+    "cost": 192.03,
+    "timeStart": "13:25:00",
+    "timeFinish": "18:51:00"
+  },
+  {
+    "number": 1126,
+    "stationStart": 1981,
+    "stationFinish": 1902,
+    "cost": 192.87,
+    "timeStart": "2:42:00",
+    "timeFinish": "17:36:00"
+  },
+  {
+    "number": 1126,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 172.54,
+    "timeStart": "11:20:00",
+    "timeFinish": "3:02:00"
+  },
+  {
+    "number": 1126,
+    "stationStart": 1981,
+    "stationFinish": 1921,
+    "cost": 314.35,
+    "timeStart": "11:20:00",
+    "timeFinish": "17:36:00"
+  },
+  {
+    "number": 1137,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 131.34,
+    "timeStart": "19:53:00",
+    "timeFinish": "8:21:00"
+  },
+  {
+    "number": 1138,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 171.74,
+    "timeStart": "7:03:00",
+    "timeFinish": "19:11:00"
+  },
+  {
+    "number": 1139,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 114.11,
+    "timeStart": "0:03:00",
+    "timeFinish": "14:32:00"
+  },
+  {
+    "number": 1140,
+    "stationStart": 1921,
+    "stationFinish": 1902,
+    "cost": 114.12,
+    "timeStart": "9:39:00",
+    "timeFinish": "0:15:00"
+  },
+  {
+    "number": 1141,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 176.77,
+    "timeStart": "12:15:00",
+    "timeFinish": "16:48:00"
+  },
+  {
+    "number": 1142,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 176.77,
+    "timeStart": "12:15:00",
+    "timeFinish": "16:48:00"
+  },
+  {
+    "number": 1143,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 176.78,
+    "timeStart": "13:38:00",
+    "timeFinish": "19:47:00"
+  },
+  {
+    "number": 1144,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 176.78,
+    "timeStart": "13:38:00",
+    "timeFinish": "19:47:00"
+  },
+  {
+    "number": 1145,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 176.78,
+    "timeStart": "13:38:00",
+    "timeFinish": "19:47:00"
+  },
+  {
+    "number": 1146,
+    "stationStart": 1929,
+    "stationFinish": 1937,
+    "cost": 134.11,
+    "timeStart": "22:07:00",
+    "timeFinish": "11:35:00"
+  },
+  {
+    "number": 1147,
+    "stationStart": 1929,
+    "stationFinish": 1937,
+    "cost": 134.11,
+    "timeStart": "22:07:00",
+    "timeFinish": "11:35:00"
+  },
+  {
+    "number": 1148,
+    "stationStart": 1937,
+    "stationFinish": 1929,
+    "cost": 134.11,
+    "timeStart": "9:40:00",
+    "timeFinish": "23:04:00"
+  },
+  {
+    "number": 1149,
+    "stationStart": 1937,
+    "stationFinish": 1929,
+    "cost": 134.11,
+    "timeStart": "9:40:00",
+    "timeFinish": "23:04:00"
+  },
+  {
+    "number": 1155,
+    "stationStart": 1937,
+    "stationFinish": 1981,
+    "cost": 140.51,
+    "timeStart": "3:30:00",
+    "timeFinish": "15:49:00"
+  },
+  {
+    "number": 1156,
+    "stationStart": 1981,
+    "stationFinish": 1937,
+    "cost": 140.98,
+    "timeStart": "9:21:00",
+    "timeFinish": "21:31:00"
+  },
+  {
+    "number": 1162,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 173.83,
+    "timeStart": "17:28:00",
+    "timeFinish": "7:55:00"
+  },
+  {
+    "number": 1163,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 131.84,
+    "timeStart": "4:37:00",
+    "timeFinish": "15:52:00"
+  },
+  {
+    "number": 1167,
+    "stationStart": 1981,
+    "stationFinish": 1902,
+    "cost": 132.29,
+    "timeStart": "10:35:00",
+    "timeFinish": "21:45:00"
+  },
+  {
+    "number": 1169,
+    "stationStart": 1981,
+    "stationFinish": 1902,
+    "cost": 180.58,
+    "timeStart": "6:12:00",
+    "timeFinish": "20:00:00"
+  },
+  {
+    "number": 1170,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 179.94,
+    "timeStart": "6:42:00",
+    "timeFinish": "21:00:00"
+  },
+  {
+    "number": 1171,
+    "stationStart": 1909,
+    "stationFinish": 1921,
+    "cost": 1407.37,
+    "timeStart": "12:17:00",
+    "timeFinish": "15:47:00"
+  },
+  {
+    "number": 1172,
+    "stationStart": 1909,
+    "stationFinish": 1921,
+    "cost": 1407.37,
+    "timeStart": "12:17:00",
+    "timeFinish": "15:47:00"
+  },
+  {
+    "number": 1177,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 164.65,
+    "timeStart": "10:25:00",
+    "timeFinish": "16:36:00"
+  },
+  {
+    "number": 1178,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 164.65,
+    "timeStart": "10:25:00",
+    "timeFinish": "16:36:00"
+  },
+  {
+    "number": 1179,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 164.67,
+    "timeStart": "13:12:00",
+    "timeFinish": "19:55:00"
+  },
+  {
+    "number": 1180,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 164.67,
+    "timeStart": "13:12:00",
+    "timeFinish": "19:55:00"
+  },
+  {
+    "number": 1181,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 131.34,
+    "timeStart": "4:50:00",
+    "timeFinish": "15:52:00"
+  },
+  {
+    "number": 1182,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 131.36,
+    "timeStart": "10:36:00",
+    "timeFinish": "21:36:00"
+  },
+  {
+    "number": 1190,
+    "stationStart": 1921,
+    "stationFinish": 1902,
+    "cost": 245.02,
+    "timeStart": "23:21:00",
+    "timeFinish": "18:43:00"
+  },
+  {
+    "number": 1191,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 245,
+    "timeStart": "10:56:00",
+    "timeFinish": "6:20:00"
+  },
+  {
+    "number": 1197,
+    "stationStart": 1921,
+    "stationFinish": 1902,
+    "cost": 245.02,
+    "timeStart": "11:37:00",
+    "timeFinish": "6:56:00"
+  },
+  {
+    "number": 1198,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 245,
+    "timeStart": "18:11:00",
+    "timeFinish": "13:37:00"
+  },
+  {
+    "number": 1209,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 273.19,
+    "timeStart": "22:20:00",
+    "timeFinish": "17:26:00"
+  },
+  {
+    "number": 1212,
+    "stationStart": 1981,
+    "stationFinish": 1902,
+    "cost": 274.51,
+    "timeStart": "10:45:00",
+    "timeFinish": "5:50:00"
+  },
+  {
+    "number": 1225,
+    "stationStart": 1921,
+    "stationFinish": 1929,
+    "cost": 270.29,
+    "timeStart": "13:52:00",
+    "timeFinish": "7:00:00"
+  },
+  {
+    "number": 1226,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 270.29,
+    "timeStart": "22:13:00",
+    "timeFinish": "15:18:00"
+  },
+  {
+    "number": 1245,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 225.49,
+    "timeStart": "12:15:00",
+    "timeFinish": "16:48:00"
+  },
+  {
+    "number": 1246,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 247.29,
+    "timeStart": "13:38:00",
+    "timeFinish": "19:47:00"
+  },
+  {
+    "number": 1249,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 199.15,
+    "timeStart": "1:09:00",
+    "timeFinish": "16:05:00"
+  },
+  {
+    "number": 1262,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 199.15,
+    "timeStart": "8:53:00",
+    "timeFinish": "23:30:00"
+  },
+  {
+    "number": 1287,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 199.15,
+    "timeStart": "8:53:00",
+    "timeFinish": "23:30:00"
+  },
+  {
+    "number": 1288,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 199.15,
+    "timeStart": "8:53:00",
+    "timeFinish": "23:30:00"
+  },
+  {
+    "number": 1298,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 199.15,
+    "timeStart": "18:00:00",
+    "timeFinish": "9:00:00"
+  },
+  {
+    "number": 1311,
+    "stationStart": 1981,
+    "stationFinish": 1937,
+    "cost": 192.33,
+    "timeStart": "7:08:00",
+    "timeFinish": "19:06:00"
+  },
+  {
+    "number": 1312,
+    "stationStart": 1937,
+    "stationFinish": 1981,
+    "cost": 175.02,
+    "timeStart": "10:01:00",
+    "timeFinish": "22:17:00"
+  },
+  {
+    "number": 1315,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 206.43,
+    "timeStart": "14:24:00",
+    "timeFinish": "4:55:00"
+  },
+  {
+    "number": 1316,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 209.73,
+    "timeStart": "5:55:00",
+    "timeFinish": "13:52:00"
+  },
+  {
+    "number": 1317,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 229.77,
+    "timeStart": "3:59:00",
+    "timeFinish": "12:05:00"
+  },
+  {
+    "number": 1323,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 206.43,
+    "timeStart": "6:32:00",
+    "timeFinish": "21:07:00"
+  },
+  {
+    "number": 1328,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 209.73,
+    "timeStart": "9:05:00",
+    "timeFinish": "17:00:00"
+  },
+  {
+    "number": 1329,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 209.74,
+    "timeStart": "9:30:00",
+    "timeFinish": "16:25:00"
+  },
+  {
+    "number": 1331,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 206.43,
+    "timeStart": "5:38:00",
+    "timeFinish": "19:30:00"
+  },
+  {
+    "number": 1342,
+    "stationStart": 1921,
+    "stationFinish": 1909,
+    "cost": 1421.12,
+    "timeStart": "13:44:00",
+    "timeFinish": "13:52:00"
+  },
+  {
+    "number": 1349,
+    "stationStart": 1981,
+    "stationFinish": 1929,
+    "cost": 284.84,
+    "timeStart": "14:35:00",
+    "timeFinish": "13:57:00"
+  },
+  {
+    "number": 1350,
+    "stationStart": 1929,
+    "stationFinish": 1981,
+    "cost": 312.42,
+    "timeStart": "18:41:00",
+    "timeFinish": "17:40:00"
+  },
+  {
+    "number": 1351,
+    "stationStart": 1929,
+    "stationFinish": 1981,
+    "cost": 312.42,
+    "timeStart": "18:41:00",
+    "timeFinish": "17:40:00"
+  },
+  {
+    "number": 1353,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 214.08,
+    "timeStart": "20:19:00",
+    "timeFinish": "9:55:00"
+  },
+  {
+    "number": 1357,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 206.43,
+    "timeStart": "5:52:00",
+    "timeFinish": "20:25:00"
+  },
+  {
+    "number": 1362,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 214.08,
+    "timeStart": "12:17:00",
+    "timeFinish": "1:40:00"
+  },
+  {
+    "number": 1363,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 214.08,
+    "timeStart": "12:17:00",
+    "timeFinish": "1:40:00"
+  },
+  {
+    "number": 1365,
+    "stationStart": 1909,
+    "stationFinish": 1929,
+    "cost": 1790.87,
+    "timeStart": "15:50:00",
+    "timeFinish": "2:40:00"
+  },
+  {
+    "number": 1366,
+    "stationStart": 1909,
+    "stationFinish": 1929,
+    "cost": 1790.87,
+    "timeStart": "15:50:00",
+    "timeFinish": "2:40:00"
+  },
+  {
+    "number": 1367,
+    "stationStart": 1921,
+    "stationFinish": 1909,
+    "cost": 1421.12,
+    "timeStart": "11:21:00",
+    "timeFinish": "11:11:00"
+  },
+  {
+    "number": 1367,
+    "stationStart": 1929,
+    "stationFinish": 1909,
+    "cost": 1790.87,
+    "timeStart": "11:21:00",
+    "timeFinish": "0:30:00"
+  },
+  {
+    "number": 1367,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 199.15,
+    "timeStart": "10:38:00",
+    "timeFinish": "0:30:00"
+  },
+  {
+    "number": 1369,
+    "stationStart": 1921,
+    "stationFinish": 1909,
+    "cost": 1421.12,
+    "timeStart": "5:35:00",
+    "timeFinish": "7:30:00"
+  },
+  {
+    "number": 1370,
+    "stationStart": 1921,
+    "stationFinish": 1909,
+    "cost": 1421.12,
+    "timeStart": "5:35:00",
+    "timeFinish": "7:30:00"
+  },
+  {
+    "number": 1371,
+    "stationStart": 1921,
+    "stationFinish": 1909,
+    "cost": 1421.12,
+    "timeStart": "5:35:00",
+    "timeFinish": "7:30:00"
+  },
+  {
+    "number": 1382,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 225.49,
+    "timeStart": "14:45:00",
+    "timeFinish": "21:50:00"
+  },
+  {
+    "number": 1383,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 225.5,
+    "timeStart": "12:06:00",
+    "timeFinish": "19:00:00"
+  },
+  {
+    "number": 1386,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 220.49,
+    "timeStart": "8:30:00",
+    "timeFinish": "13:03:00"
+  },
+  {
+    "number": 1387,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 242.29,
+    "timeStart": "4:21:00",
+    "timeFinish": "10:26:00"
+  },
+  {
+    "number": 1391,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 206.43,
+    "timeStart": "12:17:00",
+    "timeFinish": "1:40:00"
+  },
+  {
+    "number": 1392,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 206.43,
+    "timeStart": "12:17:00",
+    "timeFinish": "1:40:00"
+  },
+  {
+    "number": 1393,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 206.43,
+    "timeStart": "12:17:00",
+    "timeFinish": "1:40:00"
+  },
+  {
+    "number": 1394,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 206.43,
+    "timeStart": "12:17:00",
+    "timeFinish": "1:40:00"
+  },
+  {
+    "number": 1395,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 206.43,
+    "timeStart": "12:17:00",
+    "timeFinish": "1:40:00"
+  },
+  {
+    "number": 1396,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 206.43,
+    "timeStart": "12:17:00",
+    "timeFinish": "1:40:00"
+  },
+  {
+    "number": 1397,
+    "stationStart": 1921,
+    "stationFinish": 1929,
+    "cost": 162.13,
+    "timeStart": "2:30:00",
+    "timeFinish": "16:57:00"
+  },
+  {
+    "number": 1398,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 162.13,
+    "timeStart": "21:01:00",
+    "timeFinish": "11:05:00"
+  },
+  {
+    "number": 1405,
+    "stationStart": 1981,
+    "stationFinish": 1929,
+    "cost": 330.59,
+    "timeStart": "17:40:00",
+    "timeFinish": "16:21:00"
+  },
+  {
+    "number": 1406,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 194.36,
+    "timeStart": "13:32:00",
+    "timeFinish": "23:01:00"
+  },
+  {
+    "number": 1407,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 194.36,
+    "timeStart": "13:32:00",
+    "timeFinish": "23:01:00"
+  },
+  {
+    "number": 1408,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 194.37,
+    "timeStart": "11:08:00",
+    "timeFinish": "20:17:00"
+  },
+  {
+    "number": 1412,
+    "stationStart": 1937,
+    "stationFinish": 1929,
+    "cost": 162.86,
+    "timeStart": "11:52:00",
+    "timeFinish": "23:59:00"
+  },
+  {
+    "number": 1413,
+    "stationStart": 1929,
+    "stationFinish": 1937,
+    "cost": 162.86,
+    "timeStart": "4:40:00",
+    "timeFinish": "16:45:00"
+  },
+  {
+    "number": 1470,
+    "stationStart": 1929,
+    "stationFinish": 1921,
+    "cost": 190.8,
+    "timeStart": "5:38:00",
+    "timeFinish": "19:30:00"
+  },
+  {
+    "number": 1475,
+    "stationStart": 1921,
+    "stationFinish": 1937,
+    "cost": 238.22,
+    "timeStart": "9:39:00",
+    "timeFinish": "16:00:00"
+  },
+  {
+    "number": 1492,
+    "stationStart": 1937,
+    "stationFinish": 1921,
+    "cost": 233.91,
+    "timeStart": "10:30:00",
+    "timeFinish": "17:25:00"
+  },
+  {
+    "number": 1701,
+    "stationStart": 1921,
+    "stationFinish": 1902,
+    "cost": 181,
+    "timeStart": "9:00:00",
+    "timeFinish": "0:15:00"
+  },
+  {
+    "number": 1702,
+    "stationStart": 1921,
+    "stationFinish": 1902,
+    "cost": 181,
+    "timeStart": "0:30:00",
+    "timeFinish": "17:00:00"
+  },
+  {
+    "number": 1703,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 217.61,
+    "timeStart": "11:10:00",
+    "timeFinish": "4:00:00"
+  },
+  {
+    "number": 1704,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 217.61,
+    "timeStart": "11:10:00",
+    "timeFinish": "4:00:00"
+  },
+  {
+    "number": 1705,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 190.01,
+    "timeStart": "12:45:00",
+    "timeFinish": "6:00:00"
+  },
+  {
+    "number": 1706,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 175.04,
+    "timeStart": "14:05:00",
+    "timeFinish": "6:10:00"
+  },
+  {
+    "number": 1707,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 190.01,
+    "timeStart": "13:45:00",
+    "timeFinish": "7:00:00"
+  },
+  {
+    "number": 1708,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 195,
+    "timeStart": "14:35:00",
+    "timeFinish": "7:30:00"
+  },
+  {
+    "number": 1709,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 270,
+    "timeStart": "14:50:00",
+    "timeFinish": "8:05:00"
+  },
+  {
+    "number": 1710,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 199.29,
+    "timeStart": "15:20:00",
+    "timeFinish": "8:45:00"
+  },
+  {
+    "number": 1711,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 190.01,
+    "timeStart": "15:45:00",
+    "timeFinish": "9:00:00"
+  },
+  {
+    "number": 1712,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 181.78,
+    "timeStart": "17:25:00",
+    "timeFinish": "9:25:00"
+  },
+  {
+    "number": 1713,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 199.99,
+    "timeStart": "17:50:00",
+    "timeFinish": "10:15:00"
+  },
+  {
+    "number": 1714,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 217.61,
+    "timeStart": "17:00:00",
+    "timeFinish": "10:15:00"
+  },
+  {
+    "number": 1715,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 190.01,
+    "timeStart": "17:45:00",
+    "timeFinish": "11:00:00"
+  },
+  {
+    "number": 1716,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 190.01,
+    "timeStart": "18:15:00",
+    "timeFinish": "11:30:00"
+  },
+  {
+    "number": 1717,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 199.29,
+    "timeStart": "18:05:00",
+    "timeFinish": "12:00:00"
+  },
+  {
+    "number": 1718,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 195,
+    "timeStart": "19:40:00",
+    "timeFinish": "12:45:00"
+  },
+  {
+    "number": 1719,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 190.01,
+    "timeStart": "19:45:00",
+    "timeFinish": "13:00:00"
+  },
+  {
+    "number": 1720,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 240,
+    "timeStart": "20:20:00",
+    "timeFinish": "13:40:00"
+  },
+  {
+    "number": 1721,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 190.01,
+    "timeStart": "20:45:00",
+    "timeFinish": "14:00:00"
+  },
+  {
+    "number": 1722,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 195.26,
+    "timeStart": "22:35:00",
+    "timeFinish": "14:35:00"
+  },
+  {
+    "number": 1723,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 175.04,
+    "timeStart": "22:20:00",
+    "timeFinish": "15:10:00"
+  },
+  {
+    "number": 1724,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 190.01,
+    "timeStart": "22:15:00",
+    "timeFinish": "15:30:00"
+  },
+  {
+    "number": 1725,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 195,
+    "timeStart": "23:10:00",
+    "timeFinish": "16:30:00"
+  },
+  {
+    "number": 1726,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 190.01,
+    "timeStart": "0:00:00",
+    "timeFinish": "17:15:00"
+  },
+  {
+    "number": 1727,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 202.72,
+    "timeStart": "1:55:00",
+    "timeFinish": "17:25:00"
+  },
+  {
+    "number": 1728,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 199.29,
+    "timeStart": "0:25:00",
+    "timeFinish": "18:00:00"
+  },
+  {
+    "number": 1729,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 240,
+    "timeStart": "1:15:00",
+    "timeFinish": "18:30:00"
+  },
+  {
+    "number": 1730,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 190.01,
+    "timeStart": "1:45:00",
+    "timeFinish": "19:00:00"
+  },
+  {
+    "number": 1731,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 190.01,
+    "timeStart": "2:45:00",
+    "timeFinish": "20:00:00"
+  },
+  {
+    "number": 1732,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 208.74,
+    "timeStart": "4:25:00",
+    "timeFinish": "21:00:00"
+  },
+  {
+    "number": 1733,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 190.01,
+    "timeStart": "3:45:00",
+    "timeFinish": "21:00:00"
+  },
+  {
+    "number": 1734,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 186,
+    "timeStart": "4:30:00",
+    "timeFinish": "21:05:00"
+  },
+  {
+    "number": 1735,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 195,
+    "timeStart": "5:45:00",
+    "timeFinish": "21:45:00"
+  },
+  {
+    "number": 1736,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 195,
+    "timeStart": "4:58:00",
+    "timeFinish": "22:00:00"
+  },
+  {
+    "number": 1737,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 190.01,
+    "timeStart": "5:15:00",
+    "timeFinish": "22:30:00"
+  },
+  {
+    "number": 1738,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 240,
+    "timeStart": "5:10:00",
+    "timeFinish": "23:00:00"
+  },
+  {
+    "number": 1739,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 199.29,
+    "timeStart": "5:45:00",
+    "timeFinish": "23:45:00"
+  },
+  {
+    "number": 1801,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 236,
+    "timeStart": "7:25:00",
+    "timeFinish": "0:35:00"
+  },
+  {
+    "number": 1802,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 236,
+    "timeStart": "11:45:00",
+    "timeFinish": "5:00:00"
+  },
+  {
+    "number": 1803,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 236,
+    "timeStart": "20:00:00",
+    "timeFinish": "13:50:00"
+  },
+  {
+    "number": 1804,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 266,
+    "timeStart": "23:55:00",
+    "timeFinish": "17:15:00"
+  },
+  {
+    "number": 1805,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 196,
+    "timeStart": "4:35:00",
+    "timeFinish": "21:15:00"
+  },
+  {
+    "number": 1806,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 185,
+    "timeStart": "14:40:00",
+    "timeFinish": "7:20:00"
+  },
+  {
+    "number": 1807,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 185,
+    "timeStart": "15:30:00",
+    "timeFinish": "8:00:00"
+  },
+  {
+    "number": 1808,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 188.66,
+    "timeStart": "18:00:00",
+    "timeFinish": "10:05:00"
+  },
+  {
+    "number": 1809,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 185,
+    "timeStart": "18:35:00",
+    "timeFinish": "11:00:00"
+  },
+  {
+    "number": 1810,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 185,
+    "timeStart": "19:40:00",
+    "timeFinish": "12:00:00"
+  },
+  {
+    "number": 1811,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 188.52,
+    "timeStart": "22:00:00",
+    "timeFinish": "13:30:00"
+  },
+  {
+    "number": 1812,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 161.35,
+    "timeStart": "21:35:00",
+    "timeFinish": "14:25:00"
+  },
+  {
+    "number": 1813,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 185,
+    "timeStart": "22:45:00",
+    "timeFinish": "15:15:00"
+  },
+  {
+    "number": 1814,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 190.01,
+    "timeStart": "23:50:00",
+    "timeFinish": "15:40:00"
+  },
+  {
+    "number": 1815,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 185,
+    "timeStart": "0:25:00",
+    "timeFinish": "17:00:00"
+  },
+  {
+    "number": 1816,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 161.35,
+    "timeStart": "1:50:00",
+    "timeFinish": "18:00:00"
+  },
+  {
+    "number": 1817,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 234.99,
+    "timeStart": "2:30:00",
+    "timeFinish": "19:30:00"
+  },
+  {
+    "number": 1818,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 185,
+    "timeStart": "5:45:00",
+    "timeFinish": "22:15:00"
+  },
+  {
+    "number": 1819,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 185,
+    "timeStart": "6:10:00",
+    "timeFinish": "22:45:00"
+  },
+  {
+    "number": 1820,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 181.64,
+    "timeStart": "7:50:00",
+    "timeFinish": "23:35:00"
+  },
+  {
+    "number": 1821,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 185,
+    "timeStart": "7:20:00",
+    "timeFinish": "23:50:00"
+  },
+  {
+    "number": 1901,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 234.99,
+    "timeStart": "2:30:00",
+    "timeFinish": "19:30:00"
+  },
+  {
+    "number": 1902,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 185,
+    "timeStart": "7:20:00",
+    "timeFinish": "23:50:00"
+  },
+  {
+    "number": 2001,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 139.98,
+    "timeStart": "20:10:00",
+    "timeFinish": "12:30:00"
+  },
+  {
+    "number": 2002,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 181.78,
+    "timeStart": "4:35:00",
+    "timeFinish": "20:20:00"
+  },
+  {
+    "number": 2003,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 165.01,
+    "timeStart": "4:35:00",
+    "timeFinish": "20:20:00"
+  },
+  {
+    "number": 2101,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 196,
+    "timeStart": "20:00:00",
+    "timeFinish": "14:10:00"
+  },
+  {
+    "number": 2201,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 280,
+    "timeStart": "6:15:00",
+    "timeFinish": "14:55:00"
+  },
+  {
+    "number": 2202,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 270,
+    "timeStart": "10:10:00",
+    "timeFinish": "17:30:00"
+  },
+  {
+    "number": 2203,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 319.76,
+    "timeStart": "13:15:00",
+    "timeFinish": "17:55:00"
+  },
+  {
+    "number": 2301,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 196,
+    "timeStart": "11:45:00",
+    "timeFinish": "4:55:00"
+  },
+  {
+    "number": 2501,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 236,
+    "timeStart": "7:40:00",
+    "timeFinish": "0:50:00"
+  },
+  {
+    "number": 2701,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 315.01,
+    "timeStart": "8:00:00",
+    "timeFinish": "16:30:00"
+  },
+  {
+    "number": 2702,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 315.01,
+    "timeStart": "8:00:00",
+    "timeFinish": "16:30:00"
+  },
+  {
+    "number": 2703,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 315.01,
+    "timeStart": "8:00:00",
+    "timeFinish": "16:30:00"
+  },
+  {
+    "number": 2901,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 191.68,
+    "timeStart": "3:25:00",
+    "timeFinish": "16:20:00"
+  },
+  {
+    "number": 2902,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 193.55,
+    "timeStart": "6:05:00",
+    "timeFinish": "21:20:00"
+  },
+  {
+    "number": 2903,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 195,
+    "timeStart": "6:40:00",
+    "timeFinish": "22:05:00"
+  },
+  {
+    "number": 3001,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 191.68,
+    "timeStart": "3:25:00",
+    "timeFinish": "16:20:00"
+  },
+  {
+    "number": 3101,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 199.99,
+    "timeStart": "5:05:00",
+    "timeFinish": "23:10:00"
+  },
+  {
+    "number": 3501,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 218.23,
+    "timeStart": "6:50:00",
+    "timeFinish": "22:20:00"
+  },
+  {
+    "number": 4101,
+    "stationStart": 1902,
+    "stationFinish": 1929,
+    "cost": 280,
+    "timeStart": "6:15:00",
+    "timeFinish": "14:55:00"
+  },
+  {
+    "number": 4201,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 334.56,
+    "timeStart": "8:40:00",
+    "timeFinish": "13:50:00"
+  },
+  {
+    "number": 4202,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 277.5,
+    "timeStart": "6:35:00",
+    "timeFinish": "15:15:00"
+  },
+  {
+    "number": 4203,
+    "stationStart": 1929,
+    "stationFinish": 1902,
+    "cost": 269,
+    "timeStart": "9:20:00",
+    "timeFinish": "16:50:00"
+  },
+  {
+    "number": 4701,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 185.93,
+    "timeStart": "1:50:00",
+    "timeFinish": "18:00:00"
+  },
+  {
+    "number": 5101,
+    "stationStart": 1929,
+    "stationFinish": 1937,
+    "cost": 189.21,
+    "timeStart": "22:30:00",
+    "timeFinish": "12:25:00"
+  },
+  {
+    "number": 5102,
+    "stationStart": 1929,
+    "stationFinish": 1937,
+    "cost": 209.64,
+    "timeStart": "4:15:00",
+    "timeFinish": "18:00:00"
+  },
+  {
+    "number": 5103,
+    "stationStart": 1929,
+    "stationFinish": 1937,
+    "cost": 243.68,
+    "timeStart": "8:15:00",
+    "timeFinish": "21:20:00"
+  },
+  {
+    "number": 5201,
+    "stationStart": 1929,
+    "stationFinish": 1937,
+    "cost": 189.21,
+    "timeStart": "22:30:00",
+    "timeFinish": "12:25:00"
+  },
+  {
+    "number": 5202,
+    "stationStart": 1929,
+    "stationFinish": 1937,
+    "cost": 189.21,
+    "timeStart": "4:15:00",
+    "timeFinish": "18:00:00"
+  },
+  {
+    "number": 6001,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 177.78,
+    "timeStart": "4:35:00",
+    "timeFinish": "20:20:00"
+  },
+  {
+    "number": 6002,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 184.52,
+    "timeStart": "5:10:00",
+    "timeFinish": "22:10:00"
+  },
+  {
+    "number": 6901,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 232.55,
+    "timeStart": "17:20:00",
+    "timeFinish": "7:10:00"
+  },
+  {
+    "number": 7001,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 195,
+    "timeStart": "14:29:00",
+    "timeFinish": "7:30:00"
+  },
+  {
+    "number": 7002,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 195,
+    "timeStart": "19:34:00",
+    "timeFinish": "12:45:00"
+  },
+  {
+    "number": 7003,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 195,
+    "timeStart": "22:59:00",
+    "timeFinish": "16:30:00"
+  },
+  {
+    "number": 7004,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 195,
+    "timeStart": "4:44:00",
+    "timeFinish": "22:00:00"
+  },
+  {
+    "number": 7501,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 204.38,
+    "timeStart": "5:20:00",
+    "timeFinish": "21:10:00"
+  },
+  {
+    "number": 7901,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 193.55,
+    "timeStart": "6:25:00",
+    "timeFinish": "21:40:00"
+  },
+  {
+    "number": 8101,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 193.55,
+    "timeStart": "5:45:00",
+    "timeFinish": "21:00:00"
+  },
+  {
+    "number": 8501,
+    "stationStart": 1902,
+    "stationFinish": 1937,
+    "cost": 195,
+    "timeStart": "5:50:00",
+    "timeFinish": "21:50:00"
+  },
+  {
+    "number": 8701,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 193.55,
+    "timeStart": "5:55:00",
+    "timeFinish": "21:10:00"
+  },
+  {
+    "number": 8801,
+    "stationStart": 1902,
+    "stationFinish": 1981,
+    "cost": 193.4,
+    "timeStart": "6:35:00",
+    "timeFinish": "19:30:00"
+  },
+  {
+    "number": 8901,
+    "stationStart": 1937,
+    "stationFinish": 1902,
+    "cost": 236,
+    "timeStart": "21:35:00",
+    "timeFinish": "15:25:00"
+  },
+  {
+    "number": 9101,
+    "stationStart": 1902,
+    "stationFinish": 1921,
+    "cost": 160.56,
+    "timeStart": "5:15:00",
+    "timeFinish": "20:50:00}"
+  }
+]
