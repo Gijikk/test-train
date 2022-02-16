@@ -23,7 +23,7 @@ function sumItems(arr) {
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// connect JSON database
+//todo: connect JSON database
 var xhr = new XMLHttpRequest();
 xhr.open("GET", "data.json", false);
 xhr.send(null);
